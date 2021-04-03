@@ -1,0 +1,12 @@
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\bin\Debug\netcoreapp3.1\ShoesStore.Service.deps.json
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\bin\Debug\netcoreapp3.1\ShoesStore.Service.runtimeconfig.json
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\bin\Debug\netcoreapp3.1\ShoesStore.Service.runtimeconfig.dev.json
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\bin\Debug\netcoreapp3.1\ShoesStore.Service.dll
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\bin\Debug\netcoreapp3.1\ShoesStore.Service.pdb
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\obj\Debug\netcoreapp3.1\ShoesStore.Service.csprojAssemblyReference.cache
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\obj\Debug\netcoreapp3.1\ShoesStore.Service.AssemblyInfoInputs.cache
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\obj\Debug\netcoreapp3.1\ShoesStore.Service.AssemblyInfo.cs
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\obj\Debug\netcoreapp3.1\ShoesStore.Service.csproj.CoreCompileInputs.cache
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\obj\Debug\netcoreapp3.1\ShoesStore.Service.dll
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\obj\Debug\netcoreapp3.1\ShoesStore.Service.pdb
+D:\ThucTapTotNghiep\ShoesStore\ShoesStore.Service\obj\Debug\netcoreapp3.1\ShoesStore.Service.genruntimeconfig.cache
