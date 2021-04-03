@@ -1,2 +1,2 @@
-# ShoeStore
-Sale shoe
+# ShoesStore
+Sale shoes
